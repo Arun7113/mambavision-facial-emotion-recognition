@@ -1,0 +1,15 @@
+torch>=2.1
+torchvision
+transformers>=4.40
+timm
+einops
+mamba-ssm      # requires an NVIDIA GPU + CUDA
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+tqdm
